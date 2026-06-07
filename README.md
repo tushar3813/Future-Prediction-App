@@ -1,4 +1,4 @@
-# Java Prediction App
+# Future Prediction App
 
 A fun Java console application that predicts your future based on the last letter of your name.
 
