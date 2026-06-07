@@ -5,10 +5,11 @@ A fun Java console application that predicts your future based on the last lette
 ## Features
 - User input using Scanner
 - Switch-case logic
-- 26 unique predictions (A-Z)
+- break
 
 ## Technologies Used
 - Java
+- mybrain
 - IntelliJ IDEA
 
 ## Screenshot
